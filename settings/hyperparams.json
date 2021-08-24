@@ -5,7 +5,7 @@
 
     "cuda": true,
     "gpu": 0,
-    "epoch" : 0,
+    "epoch" : 740,
     "reconstruction_loss": "chamfer",
 
     "metrics": [
@@ -23,7 +23,7 @@
     "batch_size": 50,
     "gp_lambda": 10,
     "reconstruction_coef": 0.05,
-    "z_size": 2048,
+    "z_size": 512,
     "distribution": "bernoulli",
 
     "p": 0.2,
